@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "user": "",
+  "profile_picture": "",
+  "name": "",
+  "address": "",
+  "vehicle_type": 1,
+  "description": "",
+  "is_open": false,
+  "open_hour": "",
+  "close_hour": "",
+  "created_at": "",
+  "updated_at": ""
+}

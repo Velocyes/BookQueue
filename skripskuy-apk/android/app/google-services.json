@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407517089211",
+    "project_id": "skripskuy-firebase",
+    "storage_bucket": "skripskuy-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407517089211:android:2f305b9e6acc3adfa7889e",
+        "android_client_info": {
+          "package_name": "com.binus.skripskuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407517089211-jg8biq8b4c5f3j36qppv1kudbfchqk4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfi8gVvn6rGrtKCTFkyTFfMYvfZhQnfpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407517089211-jg8biq8b4c5f3j36qppv1kudbfchqk4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
